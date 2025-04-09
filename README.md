@@ -21,7 +21,7 @@ Whether it’s a CLI tool, a smart study workspace, or a sleek Next.js dashboard
 
 | Languages | Frameworks | AI/ML & Tools |
 |:---------:|:----------:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,bash" height="35"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,firebase" height="35"/> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,vite" height="35"/> |
+| <img src="https://skillicons.dev/icons?i=js,ts,python,c" height="35"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,firebase" height="35"/> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="35"/> |
 
 | Databases | Platforms | Utilities |
 |:---------:|:---------:|:---------:|
@@ -41,7 +41,7 @@ Whether it’s a CLI tool, a smart study workspace, or a sleek Next.js dashboard
 
 | Stats | Streak | Top Languages |
 |:-----:|:------:|:-------------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Yathartha19&show_icons=true&theme=tokyonight&hide=stars" width="300"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Yathartha19&theme=tokyonight" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yathartha19&layout=compact&theme=tokyonight" width="300"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Yathartha19&show_icons=true&theme=tokyonight&hide=stars" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yathartha19&layout=compact&theme=tokyonight" width="300"/> |
 
 </div>
 
