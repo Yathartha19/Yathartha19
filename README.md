@@ -1,6 +1,5 @@
 # Hey there! 👋 I'm Yathartha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Security+and+AI+Explorer;Builder+of+Dev+Tools+%F0%9F%94%A7;Edtech+and+Productivity+Geek)](https://git.io/typing-svg)
 
 ---
 
