@@ -9,9 +9,10 @@ Whether it’s a CLI tool, a smart study workspace, or a sleek Next.js dashboard
 ---
 
 ### 💡 What I’m Into
-- 🧠 **AI-Enhanced Learning Tools** – think RAG, smart notes, flashcards, etc.
+- **Full Stack Web Development**
+- 🧠 **AI-Enhanced Tools** – think RAG, smart notes, flashcards, etc.
 - 🛠️ **Dev Tools & CLI Automation** – from project scaffolding to productivity boosts
-- 🌐 **Full-Stack Engineering** – React + Node + Firebase + more
+- 🌐 **Full-Stack Engineering** 
 
 ---
 
