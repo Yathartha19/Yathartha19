@@ -2,9 +2,8 @@
 
 ---
 
-🚀 I'm a tech enthusiast who loves building tools and platforms that **educate, empower, and automate**.  
-I enjoy creating full-stack apps, tinkering with AI, and building efficient developer workflows.  
-Whether it’s a CLI tool, a smart study workspace, or a sleek Next.js dashboard — I love turning ideas into reality.
+🚀 Tech enthusiast who loves building tools and platforms.  
+I enjoy creating full-stack apps, tinkering with AI, and building efficient dev workflows.  
 
 ---
 
