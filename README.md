@@ -8,7 +8,7 @@ Right now, I’m focused on getting better at building efficient full-stack syst
 
 ---
 
-### 💡 What I’m Into
+### What I’m Into
 - **Full Stack Web Development**
 -  **AI-Enhanced Tools** – RAG, smart notes, etc.
 -  **Developer tooling & CLI automation**
