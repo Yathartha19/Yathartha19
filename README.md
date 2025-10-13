@@ -12,7 +12,8 @@ Right now, I’m focused on getting better at building efficient full-stack syst
 - **Full Stack Web Development**
 -  **AI-Enhanced Tools** – RAG, smart notes, etc.
 -  **Developer tooling & CLI automation**
--  **Full-Stack Engineering** 
+-  **Full-Stack Engineering**
+-  **Startup Tech** — trying to build practical MVPs that can scale
 
 ---
 
