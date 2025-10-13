@@ -2,20 +2,21 @@
 
 ---
 
-🚀 Tech enthusiast who loves building tools and platforms.  
-I enjoy creating full-stack apps, tinkering with AI, and building efficient dev workflows.  
+I like building things — from small tools that make life easier to full-blown apps that actually solve problems.
+Most of my projects revolve around web development, AI, and developer productivity.
+Right now, I’m focused on getting better at building efficient full-stack systems and exploring how AI fits into them.
 
 ---
 
 ### 💡 What I’m Into
 - **Full Stack Web Development**
-- 🧠 **AI-Enhanced Tools** – think RAG, smart notes, flashcards, etc.
-- 🛠️ **Dev Tools & CLI Automation** – from project scaffolding to productivity boosts
-- 🌐 **Full-Stack Engineering** 
+-  **AI-Enhanced Tools** – RAG, smart notes, etc.
+-  **Developer tooling & CLI automation**
+-  **Full-Stack Engineering** 
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -31,7 +32,7 @@ I enjoy creating full-stack apps, tinkering with AI, and building efficient dev 
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
