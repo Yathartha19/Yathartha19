@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Yathartha
+# Hey there! I'm Yathartha
 
 ---
 
