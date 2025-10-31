@@ -6,9 +6,9 @@ I like building things — from small tools that make life easier to full-blown 
 Most of my projects revolve around web development, AI, and developer productivity.
 Right now, I’m focused on getting better at building efficient full-stack systems and exploring how AI fits into them.
 
-I'm a Computer Science student at PES University (batch of 2027)
-Currently working on Trailo, a ride planning and tracking app designed to help friends coordinate bike trips seamlessly.
-Web Developer @ Nexus 
+- I'm a Computer Science student at PES University (batch of 2027)
+- Currently working on Trailo, a ride planning and tracking app designed to help friends coordinate bike trips seamlessly.
+- Web Developer @ Nexus 
 
 ---
 
