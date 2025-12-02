@@ -15,7 +15,7 @@ Right now, I’m focused on getting better at building efficient full-stack syst
 ### What I’m Into
 - **Full Stack Development**
 -  **Developer tooling & CLI automation**
--  **Startup Tech** — trying to build practical MVPs that can scale
+-  **Startup Tech** - trying to build practical MVPs that can scale
 
 ---
 
