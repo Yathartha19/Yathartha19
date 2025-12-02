@@ -2,7 +2,7 @@
 
 ---
 
-I like building things — from small tools that make life easier to full-blown apps that actually solve problems.
+I like building things, from small tools that make life easier to full-blown apps that actually solve problems.
 Most of my projects revolve around web development, AI, and developer productivity.
 Right now, I’m focused on getting better at building efficient full-stack systems and exploring how AI fits into them.
 
@@ -51,7 +51,7 @@ Right now, I’m focused on getting better at building efficient full-stack syst
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:aarushyathartha19@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
