@@ -43,10 +43,6 @@ Right now, I’m focused on getting better at building efficient full-stack syst
 |:--------------:|:---------------:|
 | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yathartha19&theme=tokyo-night&hide_border=true&area=true" width="440"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yathartha19&theme=tokyonight" width="440"/> |
 
-| Stats | Streak | Top Languages |
-|:-----:|:------:|:-------------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=Yathartha19&show_icons=true&theme=tokyonight&hide=stars" width="300"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yathartha19&layout=compact&theme=tokyonight" width="300"/> |
-
 </div>
 
 ---
