@@ -1,4 +1,4 @@
-# Hey there! I'm Yathartha
+## Hey there! I'm Yathartha
 
 ---
 
@@ -16,34 +16,6 @@ Right now, I’m focused on getting better at building efficient full-stack syst
 - **Full Stack Development**
 -  **Developer tooling & CLI automation**
 -  **Startup Tech** - trying to build practical MVPs that can scale
-
----
-
-##  Tech Stack
-
-<div align="center">
-
-| Languages | Frameworks | AI/ML & Tools |
-|:---------:|:----------:|:-------------:|
-| <img src="https://skillicons.dev/icons?i=js,ts,python,c" height="35"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,firebase" height="35"/> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="35"/> |
-
-| Databases | Platforms | Utilities |
-|:---------:|:---------:|:---------:|
-| <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="35"/> | <img src="https://skillicons.dev/icons?i=vercel,netlify,github" height="35"/> | <img src="https://skillicons.dev/icons?i=git,vscode,docker,figma,anaconda" height="35"/> |
-
-</div>
-
----
-
-##  GitHub Stats
-
-<div align="center">
-
-| Activity Graph | Profile Summary |
-|:--------------:|:---------------:|
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yathartha19&theme=tokyo-night&hide_border=true&area=true" width="440"/> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yathartha19&theme=tokyonight" width="440"/> |
-
-</div>
 
 ---
 
