@@ -8,7 +8,6 @@ Right now, I’m focused on getting better at building efficient full-stack syst
 
 - I'm a Computer Science student at PES University (batch of 2027)
 - Currently working on Trailo, a ride planning and tracking app designed to help friends coordinate bike trips seamlessly.
-- Web Developer @ Nexus 
 
 ---
 
