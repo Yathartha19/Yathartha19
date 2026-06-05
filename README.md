@@ -2,9 +2,17 @@
 
 ---
 
-I like building things, from small tools that make life easier to full-blown apps that actually solve problems.
-Most of my projects revolve around web development, AI, and developer productivity.
-Right now, I’m focused on getting better at building efficient full-stack systems and exploring how AI fits into them.
+<h2>About</h2>
+
+<p>
+  <strong>Background:</strong><br/>
+  I’m a Computer Science undergraduate at <strong>PES University</strong> (Batch of 2027) who builds software across the stack.
+</p>
+
+<p>
+  <strong>Experience:</strong><br/>
+  Through internship work, I’ve spent time working on real codebases, shipping features, and improving existing systems.
+</p>
 
 - I'm a Computer Science student at PES University (batch of 2027)
 - Currently working on Trailo, a ride planning and tracking app designed to help friends coordinate bike trips seamlessly.
