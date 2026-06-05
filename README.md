@@ -1,10 +1,8 @@
 ## Hey there! I'm Yathartha
 
-<h2>About</h2>
-
 <p>
-  <strong>Background:</strong><br/>
-  I’m a Computer Science undergraduate at <strong>PES University</strong> (Batch of 2027) who builds software across the stack.
+  <strong>About:</strong><br/>
+  I’m a Computer Science undergraduate at <strong>PES University</strong> (Batch of 2027) who builds software across the stack. Mainly working with Full Stack Development.
 </p>
 
 <p>
