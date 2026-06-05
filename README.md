@@ -17,16 +17,7 @@
 - I'm a Computer Science student at PES University (batch of 2027)
 - Currently working on Trailo, a ride planning and tracking app designed to help friends coordinate bike trips seamlessly.
 
----
-
-### What I’m Into
-- **Full Stack Development**
--  **Developer tooling & CLI automation**
--  **Startup Tech** - trying to build practical MVPs that can scale
-
----
-
-##  Connect With Me
+<h2>Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:aarushyathartha19@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
